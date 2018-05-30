@@ -15,7 +15,8 @@
     "svd_path": "MK66F18.svd"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "mbed"
   ],
   "name": "Teensy 3.6",
   "upload": {

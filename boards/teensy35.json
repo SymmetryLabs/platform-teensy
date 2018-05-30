@@ -15,7 +15,8 @@
     "svd_path": "MK64F12.svd"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "mbed"
   ],
   "name": "Teensy 3.5",
   "upload": {
