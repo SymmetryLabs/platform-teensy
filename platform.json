@@ -46,7 +46,7 @@
     "framework-mbed": {
       "type": "framework",
       "optional": true,
-      "version": "~4.50802.0"
+      "version": "https://github.com/SymmetryLabs/mbed-os.git#6a3863926537f8116adad30cde562956a8ccfdf2"
     },
     "tool-teensy": {
       "type": "uploader",
